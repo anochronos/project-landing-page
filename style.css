@@ -12,6 +12,8 @@ body {
     display: flex;
 }
 
+/* Header Bar */
+
 .header {
     padding: 0px 170px;
     justify-content: space-between;
@@ -30,6 +32,9 @@ ul {
     gap: 16px;
 
 }
+
+/*Upper Body */
+
 .u1 {
     display: flex;
     flex-direction: column;
@@ -83,6 +88,8 @@ a {
     text-decoration: none;
 
 }
+
+/* Middle Body */
 
 .middle {
     display: flex;
