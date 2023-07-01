@@ -148,6 +148,7 @@ a {
     padding: 48px 150px;
     justify-content: space-between;
     align-items: center;
+    gap: 64px;
 }
 
 .barhead {
